@@ -12,4 +12,4 @@
 
 
 ## UI Sketch
-![UI](https://user-images.githubusercontent.com/15820167/66969090-be750980-f04d-11e9-84aa-0a333703de7d.png)
+![UI](https://user-images.githubusercontent.com/15820167/66969121-eb292100-f04d-11e9-95ae-794fea7b6748.png)
