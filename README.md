@@ -13,3 +13,5 @@
 
 ## UI Sketch
 ![UI](https://user-images.githubusercontent.com/15820167/66969121-eb292100-f04d-11e9-95ae-794fea7b6748.png)
+![p1 19,readme2](https://user-images.githubusercontent.com/15820167/66971743-fb45fe00-f057-11e9-8d5e-f43f6490347d.png)
+
