@@ -10,7 +10,7 @@
 
 <img src="https://idatavisualizationlab.github.io/CS3366/data/photos/JoseGarcia.jpg" alt="" data-canonical-src="https://idatavisualizationlab.github.io/CS3366/data/photos/JoseGarcia.jpg" width="250" height="250" /> Jose Luis Garcia
 
-## Duty
+## Duty/Implementation
 There are three expandable tabs: 
 
 -Jeffrey: Personal
