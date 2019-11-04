@@ -29,6 +29,6 @@
 ### Error handling
 - Offer error prevention and simple error handling
 
-## prototype
+## Prototype
 
 ![prototype](https://user-images.githubusercontent.com/15820167/68094644-4b023300-fe68-11e9-8d2c-85d1a3db838a.jpg)
